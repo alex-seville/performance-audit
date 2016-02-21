@@ -1,0 +1,22 @@
+{
+  "name": "performance-instrumentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "instrument.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alex-seville/performance-instrumentation.git"
+  },
+  "author": "Alex Seville <hi@alexanderseville.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-seville/performance-instrumentation/issues"
+  },
+  "homepage": "https://github.com/alex-seville/performance-instrumentation",
+  "dependencies": {
+    "falafel": "^1.2.0"
+  }
+}
