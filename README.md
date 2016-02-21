@@ -32,7 +32,7 @@ Run your code
 At any point print the log to the console to see a JS execution log.
 
 ```
-window.performanceAudit.finalize();
+window.performanceAudit.show();
 ```
 
 
@@ -41,4 +41,4 @@ window.performanceAudit.finalize();
 1. cd `demo`
 2. Run `node instrument-demo.js`
 3. Open demo.html in a web browser
-4. After 1600 ms, run `window.performanceAudit.finalize();` in the console
+4. After 2s, look in the console
