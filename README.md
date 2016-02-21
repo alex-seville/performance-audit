@@ -1,4 +1,4 @@
-# performance-instrumentation
+# performance-audit
 
 Instrument and track JS execution.
 
@@ -8,7 +8,7 @@ Instrument and track JS execution.
 Run the instrumentation on client side code.
 
 ```
-instrument = require('./instrument');
+instrument = require('performance-audit');
 
 var src = fs.readFileSync('testfile.js', 'utf8');
 
