@@ -2,6 +2,8 @@
 
 Instrument and track JS execution.
 
+`npm install performance-audit`
+
 
 ## Step 1
 

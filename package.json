@@ -1,21 +1,21 @@
 {
-  "name": "performance-instrumentation",
+  "name": "performance-audit",
   "version": "1.0.0",
-  "description": "",
+  "description": "Log Client JS execution to audit performance",
   "main": "instrument.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alex-seville/performance-instrumentation.git"
+    "url": "https://github.com/alex-seville/performance-audit.git"
   },
   "author": "Alex Seville <hi@alexanderseville.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alex-seville/performance-instrumentation/issues"
+    "url": "https://github.com/alex-seville/performance-audit/issues"
   },
-  "homepage": "https://github.com/alex-seville/performance-instrumentation",
+  "homepage": "https://github.com/alex-seville/performance-audit",
   "dependencies": {
     "falafel": "^1.2.0"
   }
